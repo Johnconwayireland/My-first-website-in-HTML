@@ -1,2 +1,32 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width+device-width, initial-scale=1">
+<title>John Conways Website</title>
+</head>
+
+<body>
+    <h1> John Conways Website</h1>
+	<h2> Welcome to my HTML World</h2>
+	<h3> HTML rocks!!</h3>
+	<h4> You can build cool webpages with HTML</h4>
+	<h5> Im learning HTML!!!!</h5>
+	<h6> Hello World </h6>
+	
+	This is my very first website and <b> I'm extremely excites<b/>
+    HTML code is the biz!!!
+	
+	<p>
+	Im very intersted in using HTML code. <br><br><br> I find it very intersting that you can create such beauiful websites with code!!!
+	</p>
+	
+	<p>
+	My name is John Conway, I live in Limerick in Ireland. I have a huge interesting in computers and software, blogging and building websites. 
+	Im also very interested in coding and SQL. I like rugby, hurling and soccer. I enjoy going for walks especially during the lockdown period, it has been a difficult time during lockdown.
+	</p>
+	
+	<p>
+	Good bye HTML world!
+	</p>
+	
